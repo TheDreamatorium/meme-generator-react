@@ -3,7 +3,7 @@ export default function Header() {
         <nav className="header">
             <div className="logo">
                 <div className="logo-wrapper">
-                    <img src="/images/troll.png"/>
+                    <img src="/images/troll.png" alt="logo"/>
                 </div>
                 <h3>Meme Generator</h3>
             </div>
